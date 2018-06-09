@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVUnitySSDCaffee.Plugins", "OpenCVUnitySSDCaffee.Plugins.csproj", "{954F5E3D-55A0-4F07-D6AA-71A19F160B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVUnitySSDCaffee", "OpenCVUnitySSDCaffee.csproj", "{68FE49F5-FE37-2027-BAD2-E9982CCE9A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCVUnitySSDCaffee.Editor.Plugins", "OpenCVUnitySSDCaffee.Editor.Plugins.csproj", "{BB45138A-E541-373C-C0C5-2880E3FE734B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{954F5E3D-55A0-4F07-D6AA-71A19F160B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954F5E3D-55A0-4F07-D6AA-71A19F160B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954F5E3D-55A0-4F07-D6AA-71A19F160B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954F5E3D-55A0-4F07-D6AA-71A19F160B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FE49F5-FE37-2027-BAD2-E9982CCE9A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FE49F5-FE37-2027-BAD2-E9982CCE9A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FE49F5-FE37-2027-BAD2-E9982CCE9A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FE49F5-FE37-2027-BAD2-E9982CCE9A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB45138A-E541-373C-C0C5-2880E3FE734B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB45138A-E541-373C-C0C5-2880E3FE734B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB45138A-E541-373C-C0C5-2880E3FE734B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB45138A-E541-373C-C0C5-2880E3FE734B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

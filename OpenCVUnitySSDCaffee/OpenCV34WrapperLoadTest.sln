@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV34WrapperLoadTest.Plugins", "OpenCV34WrapperLoadTest.Plugins.csproj", "{EEA42F80-3DCF-CB1A-ADCA-0EAB679ADF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV34WrapperLoadTest", "OpenCV34WrapperLoadTest.csproj", "{D7143F96-7C1F-90CF-ACEB-8E01E17794A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenCV34WrapperLoadTest.Editor.Plugins", "OpenCV34WrapperLoadTest.Editor.Plugins.csproj", "{FD67731F-3189-56BB-8739-D6B11D726A73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA42F80-3DCF-CB1A-ADCA-0EAB679ADF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA42F80-3DCF-CB1A-ADCA-0EAB679ADF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA42F80-3DCF-CB1A-ADCA-0EAB679ADF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA42F80-3DCF-CB1A-ADCA-0EAB679ADF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7143F96-7C1F-90CF-ACEB-8E01E17794A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7143F96-7C1F-90CF-ACEB-8E01E17794A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7143F96-7C1F-90CF-ACEB-8E01E17794A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7143F96-7C1F-90CF-ACEB-8E01E17794A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD67731F-3189-56BB-8739-D6B11D726A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD67731F-3189-56BB-8739-D6B11D726A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD67731F-3189-56BB-8739-D6B11D726A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD67731F-3189-56BB-8739-D6B11D726A73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
